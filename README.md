@@ -2,6 +2,21 @@
 
 A new Flutter project.
 
+Group Details : 
+
+1. Name : Md. Habibur Rahman
+ID : 183-15-11877
+>> Branch Link : https://github.com/habib422/Eroute_Master
+
+2. Name : Md. Sunjirul Islam Pritom
+ID : 201-15-3728
+>> Branch Link :
+
+3. Name : G.M.R Irfan
+ID : 191-15-13000
+>> Branch Link : 
+ 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

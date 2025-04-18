@@ -1,6 +1,6 @@
 # erouteadmin
 
-A new Flutter project.
+A new Flutter Project Application that can be Used to simplyfy our regular basis bus services. This project can be help us to find our bus route and accual bus, bus live time when the bus will be run and where to where go and also can bee show us the route MAP. 
 
 Group Details : 
 
